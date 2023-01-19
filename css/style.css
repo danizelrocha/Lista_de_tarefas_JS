@@ -63,6 +63,7 @@ main{
     width: 100%;
     box-shadow: 0 0 20px #ccc;
     margin-bottom: 2%;
+    cursor: pointer;
 }
 
 .item.clicado{
@@ -94,6 +95,7 @@ main{
 .delete{
     background: red;
     color: white;
+    cursor: pointer;
     padding: 10px;
     height: 80px;
     border: none;
